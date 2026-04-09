@@ -64,6 +64,6 @@ git merge feature-ui
 ## 📌 Connecting to GitHub
 
 ```bash
-git remote add origin https://github.com/your-username/js-project.git
+git remote add origin https://github.com/lamboshe/js-project.git
 git push -u origin main
 ```
